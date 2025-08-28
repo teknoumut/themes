@@ -1,0 +1,13 @@
+@import "reset";
+@import "bs-overrides";
+@import "colors";
+@import "themes";
+@import "buttons";
+
+
+@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+body{
+ transition:all 200ms ease-in-out;
+}
